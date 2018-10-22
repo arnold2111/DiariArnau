@@ -2,26 +2,44 @@
 1 – Creació d’una pàgina Web utilitzant eines Git i Github
 
 1. Creo un directori de treball anomenat /DiariVostreNom/ en el directori de l'usuari.
+
+
 ![compilacio](/img/Selección_001.png)
 
+
 2. Inicialitzar el repositori buit.
+
+
 ![compilacio](/img/Selección_002.png)
 
+
 3. Crear l'arxiu index.html
+
+
 ![compilacio](/img/Selección_003.png)
 
+
 4. Afegir l'estructura bàsica
+
+
 ![compilacio](/img/Selección_004.png)
+
 
 5. Crear un commit indicant que es crea l'esquelet bàsic del index.html
 
 6. Afegir el contingut al head, entre head i head
+
+
 ![compilacio](/img/Selección_006.png)
+
 
 7. Crear un commit indicant que s'afegeix la capçalera del index.html
 
 8. Afegir el contingut al body, entre body i body
+
+
 ![compilacio](/img/Selección_007.png)
+
 
 9. Crear un commit indicant que s'afegeix l'estructura bàsica del body
 
@@ -40,14 +58,20 @@
     4. Veure Github
 
 13. Afegir el contingut de section, entre  section  i section ( la idea és afegir al menys tres     posts en la zona d’articles del vostre document). Podeu afegir notícies, articles etc...
+
+
 ![compilacio](/img/Selección_007.png)
+
 
 14. Crear un commit indicant que s'afegeix tota l'estructura de la zona de posts.
 
 15. Crear un arxiu style.css.
 
 16. Afegir la següent informació
+
+
 ![compilacio](/img/Selección_008.png)
+
 
 17. Crear un commit indicant que s'afegeixen les CSS d'html i de body.
 
@@ -58,21 +82,29 @@ section, article, aside i footer.
 
 20. Afegir en el directori arrel de projecte el logotip que apareixerà en la barra lateral esquerra:
 logo.png ( podeu ficar la imatge que vulgueu)
+
+
 ![compilacio](/img/Selección_009.png)
 
 21. Crear un commit indicant que s'afegeix el logotip del Vostre Diari.
 
 22. Afegir la següent informació.
+
+
 ![compilacio](/img/Selección_0010.png)
 
 23. Crear un commit indicant que s'afegeixen les CSS de section.
 
 24. Afegir la següent informació.
+
+
 ![compilacio](/img/Selección_0011.png)
 
 25. Crear un commit indicant que s'afegeixen les CSS del footer.
 
 26. Afegir la següent informació.
+
+
 ![compilacio](/img/Selección_0012.png)
 
 27. Crear un commit indicant que s'afegeixen les CSS de l'H1 i dels enllaços.
