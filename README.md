@@ -91,28 +91,30 @@ logo.png ( podeu ficar la imatge que vulgueu)
 22. Afegir la següent informació.
 
 
-![compilacio](/img/Selección_0010.png)
+![compilacio](/img/Selección_010.png)
 
 23. Crear un commit indicant que s'afegeixen les CSS de section.
 
 24. Afegir la següent informació.
 
 
-![compilacio](/img/Selección_0011.png)
+![compilacio](/img/Selección_011.png)
 
 25. Crear un commit indicant que s'afegeixen les CSS del footer.
 
 26. Afegir la següent informació.
 
 
-![compilacio](/img/Selección_0012.png)
+![compilacio](/img/Selección_012.png)
 
 27. Crear un commit indicant que s'afegeixen les CSS de l'H1 i dels enllaços.
 
 28. Actualitzar la pàgina remota de forma regular fent amb l'ordre push.
 git push [nom-remot][nomeni-branca] ( és possible que tingueu que pujar mes d'una
 branca en algun moment de la practica)
-![compilacio](/img/Selección_001.png)
+
+
+
 
 29. Crear una etiqueta de v1.0
 
