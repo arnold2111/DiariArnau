@@ -16,12 +16,12 @@
 5. Crear un commit indicant que es crea l'esquelet bàsic del index.html
 
 6. Afegir el contingut al head, entre head i head
-![compilacio](/img/Selección_005.png)
+![compilacio](/img/Selección_006.png)
 
 7. Crear un commit indicant que s'afegeix la capçalera del index.html
 
 8. Afegir el contingut al body, entre body i body
-![compilacio](/img/Selección_006.png)
+![compilacio](/img/Selección_007.png)
 
 9. Crear un commit indicant que s'afegeix l'estructura bàsica del body
 
