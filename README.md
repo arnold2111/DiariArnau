@@ -118,7 +118,13 @@ branca en algun moment de la practica)
 
 29. Crear una etiqueta de v1.0
 
+
+![compilacio](/img/Selección_013.png)
+
 29. Crear una branca “develop”.
+
+
+![compilacio](/img/Selección_014.png)
 
 30. En aquesta branca de desenvolupament anem a realitzar diverses tasques:
 
