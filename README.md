@@ -1,13 +1,19 @@
 # DiariArnau
 1 – Creació d’una pàgina Web utilitzant eines Git i Github
 1. Creo un directori de treball anomenat /DiariVostreNom/ en el directori de l'usuari.
+![compilacio](/img/Selección_001.png)
 2. Inicialitzar el repositori buit.
+![compilacio](/img/Selección_002.png)
 3. Crear l'arxiu index.html
+![compilacio](/img/Selección_003.png)
 4. Afegir l'estructura bàsica
+![compilacio](/img/Selección_004.png)
 5. Crear un commit indicant que es crea l'esquelet bàsic del index.html
 6. Afegir el contingut al head, entre <head> i </head>.
+![compilacio](/img/Selección_005.png)
 7. Crear un commit indicant que s'afegeix la capçalera del index.html
 8. Afegir el contingut al body, entre <body> i </body>
+![compilacio](/img/Selección_006.png)
 9. Crear un commit indicant que s'afegeix l'estructura bàsica del body.
 10. Crear un repositori en GitHub que s’anomeni RemoteDiariVostreNom (exemple RemoteDia-riEduardo)
 11. Assignar al vostre repostiorio global el remot
@@ -22,25 +28,32 @@
     3. git push -o origin --tags
     4. Veure Github
 13. Afegir el contingut de section, entre  <section>  i </section> ( la idea és afegir al menys tres     posts en la zona d’articles del vostre document). Podeu afegir notícies, articles etc...
+![compilacio](/img/Selección_007.png)
 14. Crear un commit indicant que s'afegeix tota l'estructura de la zona de posts.
 15. Crear un arxiu style.css.
 16. Afegir la següent informació
+![compilacio](/img/Selección_008.png)
 17. Crear un commit indicant que s'afegeixen les CSS d'html i de body.
 18. Afegir la següent informació.
 19. Crear un commit indicant que s'afegeixen les CSS de diversos elements HTML5: header,
 section, article, aside i footer.
 20. Afegir en el directori arrel de projecte el logotip que apareixerà en la barra lateral esquerra:
 logo.png ( podeu ficar la imatge que vulgueu)
+![compilacio](/img/Selección_009.png)
 21. Crear un commit indicant que s'afegeix el logotip del Vostre Diari.
 22. Afegir la següent informació.
+![compilacio](/img/Selección_0010.png)
 23. Crear un commit indicant que s'afegeixen les CSS de section.
 24. Afegir la següent informació.
+![compilacio](/img/Selección_0011.png)
 25. Crear un commit indicant que s'afegeixen les CSS del footer.
 26. Afegir la següent informació.
+![compilacio](/img/Selección_0012.png)
 27. Crear un commit indicant que s'afegeixen les CSS de l'H1 i dels enllaços.
 28. Actualitzar la pàgina remota de forma regular fent amb l'ordre push.
 git push [nom-remot][nomeni-branca] ( és possible que tingueu que pujar mes d'una
 branca en algun moment de la practica)
+![compilacio](/img/Selección_001.png)
 29. Crear una etiqueta de v1.0
 29. Crear una branca “develop”.
 30. En aquesta branca de desenvolupament anem a realitzar diverses tasques:
@@ -70,10 +83,13 @@ hagués.
 51. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions
 etc...També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujar-
 ho a github ( ex: drag and drop) o treballar directament en l'editor de Github.
-52. Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que
+52.
+Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que
 serà del tipus https://username.github.io/Diariremotoeduardo.
-53. Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- prac-
+53.
+Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- prac-
 tica “Practica Diari Vostre Nom” i enllaç a la vostra pàgina generada anteriorment.
-54. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la pagina
+54.
+Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la pagina
 s'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta
 imatges.
