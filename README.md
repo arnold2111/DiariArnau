@@ -124,27 +124,26 @@ branca en algun moment de la practica)
 29. Crear una branca “develop”.
 
 
-![compilacio](/img/Selección_014.png)
+![compilacio](/img/Selección_013.png)
 
 30. En aquesta branca de desenvolupament anem a realitzar diverses tasques:
 
 31. Crear un directori de images i moure allí el logotip logo.png.
 
-
+![compilacio](/img2/Selección_013.png)
 
 32. Crear un commit indicant que es mou el logotip a la carpeta images.
 
 
-
 33. Crear un directori de CSS i moure allí les CSS style.css.
 
-
+![compilacio](/img/Selección_014.png)
 
 34. Crear un commit indicant que es mou la CSS a la carpeta CSS.
 
 
 
-35. Canviar les referències a la CSS en el index.htm i al logotip logo.png en la CSS.
+35. Canviar les referències a la CSS en el index.html i al logotip logo.png en la CSS.
 
 
 
