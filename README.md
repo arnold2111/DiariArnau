@@ -130,7 +130,7 @@ branca en algun moment de la practica)
 
 31. Crear un directori de images i moure allí el logotip logo.png.
 
-![compilacio](/img2/Selección_013.png)
+![compilacio](/img/img.png)
 
 32. Crear un commit indicant que es mou el logotip a la carpeta images.
 
