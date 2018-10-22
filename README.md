@@ -1,5 +1,6 @@
 # DiariArnau
 1 – Creació d’una pàgina Web utilitzant eines Git i Github
+
 1. Creo un directori de treball anomenat /DiariVostreNom/ en el directori de l'usuari.
 ![compilacio](/img/Selección_001.png)
 
@@ -14,12 +15,12 @@
 
 5. Crear un commit indicant que es crea l'esquelet bàsic del index.html
 
-6. Afegir el contingut al head, entre <head> i </head>.
+6. Afegir el contingut al head, entre head i head
 ![compilacio](/img/Selección_005.png)
 
 7. Crear un commit indicant que s'afegeix la capçalera del index.html
 
-8. Afegir el contingut al body, entre <body> i </body>
+8. Afegir el contingut al body, entre body i body
 ![compilacio](/img/Selección_006.png)
 
 9. Crear un commit indicant que s'afegeix l'estructura bàsica del body
@@ -38,7 +39,7 @@
     3. git push -o origin --tags
     4. Veure Github
 
-13. Afegir el contingut de section, entre  <section>  i </section> ( la idea és afegir al menys tres     posts en la zona d’articles del vostre document). Podeu afegir notícies, articles etc...
+13. Afegir el contingut de section, entre  section  i section ( la idea és afegir al menys tres     posts en la zona d’articles del vostre document). Podeu afegir notícies, articles etc...
 ![compilacio](/img/Selección_007.png)
 
 14. Crear un commit indicant que s'afegeix tota l'estructura de la zona de posts.
