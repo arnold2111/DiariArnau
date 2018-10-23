@@ -139,7 +139,7 @@ branca en algun moment de la practica)
 
 ![compilacio](/img/Selección_014.png)
 
-34. Crear un commit indicant que es mou la CSS a la carpeta CSS.
+34. Crear un commit indicant que es mou la CSS a la carpeta CSS..
 
 
 
