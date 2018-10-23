@@ -1,3 +1,5 @@
+<a href="index.html"> clic aqui </a>
+
 # DiariArnau
 1 – Creació d’una pàgina Web utilitzant eines Git i Github
 
