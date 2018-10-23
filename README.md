@@ -219,3 +219,25 @@ branca en algun moment de la practica)
 
 
 54. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la paginas'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta imatges.
+
+
+## 2 – Fork d’una pàgina Web utilitzant eines Git i Github
+
+Vegeu el següent vídeo com explica com es pot col·laborar en diferents projectes de software
+lliure o fer canvis en repositori de forma general.
+https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwXV7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3
+Feu el mateix però agafeu com referència: https://github.com/ejgutierrez74/Billiards, feu un
+fork ( això crearà una còpia del repositori en el vostre compte: tipus github.com/username/Billiards)
+hi aneu al fitxer Billiards/src/Billiards.cpp i feu alguna modificació ( ex: canviar el text que fica a
+cout). Feu un pull request a l’original. Us aprovaré el canvi o el denegaré.
+
+
+## 3 – Clonar un repositori
+
+Cloenu el projecte: https://github.com/ejgutierrez74/individual i ho descarregeu a una carpeta
+local. Vegeu els remotes que té. Feu una inspecció amb git log dels commits i historial del projecte.
+Feu alguna modificació al poema i un commit. NO el torneu a pujar ni res. Els canvis han de restar
+al vostre repositori local.
+
+
+
