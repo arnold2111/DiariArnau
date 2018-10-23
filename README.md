@@ -1,4 +1,4 @@
-<a href="index.html"> clic aqui </a>
+<a href="index.html"> INDEX.HTML </a>
 
 # DiariArnau
 1 – Creació d’una pàgina Web utilitzant eines Git i Github
