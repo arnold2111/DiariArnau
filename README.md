@@ -147,7 +147,8 @@ branca en algun moment de la practica)
 
 35. Canviar les referències a la CSS en el index.html i al logotip logo.png en la CSS.
 
-
+![compilacio](/img/Selección_015.png)
+![compilacio](/img/Selección_015.1.png)
 
 36. Crear un commit indicant que es canvien les referències a les CSS i a les imatges al reorga-nitzar-les en directoris.
 
@@ -163,10 +164,12 @@ branca en algun moment de la practica)
 
 39. Crear una branca “bugfix” a partir de la “master” per resoldre una sèrie de modificacions.
 
-
+![compilacio](/img/Selección_016.png)
 
 40. Treure els comentaris en les CSS de les dues vores (comencen per //border ).
 
+
+![compilacio](/img/Selección_017.png)
 
 
 41. Crear un commit indicant que introdueixen les vores en la barra dreta i en el footer.
@@ -176,6 +179,8 @@ branca en algun moment de la practica)
 42. Introduir com a títol “Diari de Vostre Nom”.
 
 
+![compilacio](/img/Selección_018.png)
+
 
 43. Crear un commit indicant que s'introdueix el títol a la pàgina.
 
@@ -184,6 +189,7 @@ branca en algun moment de la practica)
 44. Canviar 2012 per 2018 en el footer. Treure (c).
 
 
+![compilacio](/img/Selección_019.png)
 
 45. Crear un commit indicant que es realitzen petits ajustos en el footer.
 
@@ -192,6 +198,7 @@ branca en algun moment de la practica)
 46. Crear una etiqueta de v1.1
 
 
+![compilacio](/img/Selección_020.png)
 
 47. Portar aquests canvis a la branca “master” ( realitzar un merge).
 
@@ -200,6 +207,7 @@ branca en algun moment de la practica)
 48. Esborrar la branca “bugfix”.
 
 
+![compilacio](/img/Selección_021.png)
 
 49. Portar els canvis de la branca “develop” a la branca “master”. Resoldre els conflictes, si hi hagués.
 
@@ -207,18 +215,26 @@ branca en algun moment de la practica)
 50. Crear una etiqueta de v1.2
 
 
+![compilacio](/img/Selección_022.png)
+
 51. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions etc...També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujar-ho a github ( ex: drag and drop) o treballar directament en l'editor de Github.
 
+
+![compilacio](/img/Selección_023.png)
 
 52. Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que serà del tipus https://username.github.io/Diariremotoeduardo.
 
 
+![compilacio](/img/Selección_023.1.png)
 
 53. Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- prac-tica “Practica Diari Vostre Nom” i enllaç a la vostra pàgina generada anteriorment.
 
 
+![compilacio](/img/Selección_024.png)
 
 54. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la paginas'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta imatges.
+
+
 
 
 ## 2 – Fork d’una pàgina Web utilitzant eines Git i Github
@@ -230,6 +246,8 @@ Feu el mateix però agafeu com referència: https://github.com/ejgutierrez74/Bil
 fork ( això crearà una còpia del repositori en el vostre compte: tipus github.com/username/Billiards)
 hi aneu al fitxer Billiards/src/Billiards.cpp i feu alguna modificació ( ex: canviar el text que fica a
 cout). Feu un pull request a l’original. Us aprovaré el canvi o el denegaré.
+
+![compilacio](/img/Selección_025.png)
 
 
 ## 3 – Clonar un repositori
